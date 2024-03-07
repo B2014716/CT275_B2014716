@@ -1,0 +1,17 @@
+{
+    "name": "project/tri",
+    "description": "project_CT275",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Project\\Tri\\": "libs/"
+        }
+    },
+    "authors": [
+        {
+            "name": "B2000144",
+            "email": "125292845+B2000144@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
